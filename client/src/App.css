@@ -1,0 +1,60 @@
+.App_card {
+    width: 20rem;
+    box-shadow: 0px 1px 6px 0px #ccc;
+}
+.App_con{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    margin-top: 100px;
+}
+.App_btn{
+    width: 100%;
+    background-color:#038c2c;
+    color: white;
+    border: 1px solid #008000;
+    padding: 5px;
+}
+.App_btn:hover{
+    background-color:#038c2c;
+    box-shadow: 0px 1px 6px 0px #ccc;
+    border: 1px solid green;
+}
+.form-control:focus {
+    box-shadow: none;
+    border: 1px solid grey;
+  }
+  .nav-link {
+    font-family: sans-serif
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 10px;
+    margin-right: 50px;
+    font-family: Helvetica
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+    border-bottom: 2px solid #038c2c;
+    color: #038c2c
+}
+
+.navbar {
+    height: 80px;
+    background-color:'white';
+    box-shadow: 0px 1px 6px 0px #ccc;
+}
+.navbar-brand{
+    font-style: italic;
+}
+.navbar-brand:hover{
+    color: #038c2c;
+}
+.btn{
+    margin-right: 10px;
+    background-color:#038c2c;
+    color: white;
+}
+tr{
+    padding: 5px;
+}
